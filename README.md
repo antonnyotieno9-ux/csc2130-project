@@ -1,7 +1,7 @@
 # CSC2130 Project
 
 ## Project Title
-Ramba Boys High School Management and Information Website
+Ramba Boys Senior School Management and Information Website
 
 ## Student Information
 Name: Antonny Otieno
