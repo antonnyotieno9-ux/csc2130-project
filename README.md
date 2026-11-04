@@ -9,7 +9,7 @@ Registration Number: COM/0101/25
 Course: CSC2130 - Introduction to Web Development
 
 ## Project Description
- The Ramba boys High School Management and Information Website is a website designed to provide
+ The Ramba Boys Senior School Management and Information Website is a website designed to provide
  students, teachers, parents and visitors with important information about the school.
  The website provides information about students, courses, school activities and contact details.
  It makes it easier for users to access important school information.
